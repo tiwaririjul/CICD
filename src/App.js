@@ -12,7 +12,7 @@ function App() {
         alignItems: "center",
       }}
     >
-      <h1>Rijul</h1>
+      <h1>Rijul tiwari</h1
     </div>
   );
 }
