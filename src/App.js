@@ -13,7 +13,6 @@ function App() {
       }}
     >
       <h1>Rijul tiwari</h1>
-      <h2>hey dear</h2>
     </div>
   );
 }
